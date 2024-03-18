@@ -1,0 +1,17 @@
+{
+  "name": "cafeteria",
+  "version": "1.0.0",
+  "description": "This project aims to scrap the METU cafeteria website to fetch information regarding the month's menus.\r The information will be processed to inform the mail subscribers about the upcoming meals of their choices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.11.1"
+  },
+  "type": "module",
+  "types": "module"
+}
